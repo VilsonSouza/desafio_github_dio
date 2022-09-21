@@ -1,2 +1,4 @@
-# desafio_github_dio
-Meu primeiro desafio de projeto do GitHub
+# Repositório do Desafio de projetdo sobre Git/GItHub
+
+-Meu primeiro desafio de projeto do GitHub
+
