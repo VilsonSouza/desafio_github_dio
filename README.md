@@ -1,4 +1,5 @@
-# Repositório do Desafio de projeto sobre Git/GItHub
+#Desafio de projeto sobre Git/GItHub
 
-Meu primeiro desafio de projeto do GitHub
+Repositório do desafio de projeto.
+
 
