@@ -1,5 +1,5 @@
-#Desafio de projeto sobre Git/GItHub
+# Desafio de projeto sobre Git/GItHub 
 
-Repositório do desafio de projeto.
+- Repositório do desafio de projeto.
 
 
